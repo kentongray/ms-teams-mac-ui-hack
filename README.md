@@ -1,4 +1,4 @@
-Teams Mac app uses Microsoft fonts and feels very foreign on MacOS. This drives me crazy so I created some CSS hacks to tweak it. I also ripped out the purple header.
+Teams Mac app uses Microsoft fonts (Segoe UI) and feels very foreign on MacOS. This drives me crazy so I injected some simple CSS hacks to tweak it. I also ripped out the purple header.
 
 <img src="BeforeAfter.png" width="768">
 
