@@ -1,6 +1,6 @@
 Teams Mac app uses Microsoft fonts (Segoe UI) and feels very foreign on MacOS. This drives me crazy so I injected some simple CSS hacks to tweak it. I also ripped out the purple header and that weird skuemorphic texture on the nav bar.
 
-<img src="BeforeAfter.png" width="768">
+<img src="BeforeAfter.png">
 
 # How To Use
 * Copy the contents of `script.js` into your clipboard
