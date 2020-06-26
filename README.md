@@ -1,5 +1,7 @@
 Teams Mac app uses Microsoft fonts and feels very foreign on MacOS. This drives me crazy so I created some CSS hacks to tweak it. 
 
+![Screenshot](BeforeAfter.png)
+
 Since it is an electron app it is possible to inject CSS. Initially I used the very clever python scripts that @dany74q setup.
 https://github.com/dany74q/microsoft-teams-rtl-runner, but it causes some weirdness. I may look into this more.
 
